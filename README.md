@@ -82,7 +82,7 @@ Handler(Looper.getMainLooper()).postDelayed({ checkAndGetLocationUpdates() }, 20
 
 ```
 
-#Animation Fuction
+#Animation Function to animate view from 0p to WRAP_CONTENT
 
 ```
  fun expand(view: View) {
